@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="359px" height="640px" viewBox="0 0 359 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #EDF5E1;">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="49"></rect>
+        <filter x="-0.2%" y="-1.5%" width="100.4%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.698039216   0 0 0 0 0.698039216  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="360" height="30"></rect>
+        <filter x="-0.1%" y="-0.8%" width="100.1%" height="101.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.780392157   0 0 0 0 0.780392157   0 0 0 0 0.780392157  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="360" height="59"></rect>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="101.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.937254902   0 0 0 0 0.937254902   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="364" height="79"></rect>
+        <rect id="path-8" x="0" y="0" width="364" height="79"></rect>
+        <rect id="path-9" x="0" y="0" width="364" height="79"></rect>
+        <rect id="path-10" x="0" y="0" width="364" height="79"></rect>
+        <rect id="path-11" x="0" y="0" width="364" height="79"></rect>
+        <rect id="path-12" x="0" y="0" width="364" height="79"></rect>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bars/Tab-Bar/4-Items" transform="translate(-1.000000, 591.000000)">
+            <g id="Bar">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke-opacity="0.878340127" stroke="#9B9B9B" stroke-width="1" xlink:href="#path-1"></use>
+            </g>
+            <g id="Overrides/Tab-Bar/Item" transform="translate(290.880000, 0.000000)" fill="#A4AAB3" font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" letter-spacing="0.119999997">
+                <text id="Label">
+                    <tspan x="9.36753907" y="45.5">Alerts</tspan>
+                </text>
+            </g>
+            <g id="Overrides/Tab-Bar/Item" transform="translate(200.640000, 0.000000)" fill="#A4AAB3" font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" letter-spacing="0.119999997">
+                <text id="Label">
+                    <tspan x="14.6169336" y="45.5">Info</tspan>
+                </text>
+            </g>
+            <g id="Overrides/Tab-Bar/Item" transform="translate(111.360000, 0.000000)" fill="#A4AAB3" font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" letter-spacing="0.119999997">
+                <text id="Label">
+                    <tspan x="1.57767579" y="45.5">Favorites</tspan>
+                </text>
+            </g>
+            <g id="Overrides/Tab-Bar/Item---Active" transform="translate(21.120000, 0.000000)" fill="#194D89">
+                <text id="Label" font-family="Calibri" font-size="10" font-weight="normal" letter-spacing="0.119999997">
+                    <tspan x="3.8666797" y="45.5">My Route</tspan>
+                </text>
+                <g id="Overrides/Tab-Bar/Icons/Active/1" transform="translate(0.000000, 1.000000)" fill-rule="evenodd">
+                    <polygon id="Star" points="24 23.8339762 15.6565412 30 18.87 20.060152 10.5 13.9311163 20.8294856 13.9539762 24 4 27.1705144 13.9539762 37.5 13.9311163 29.13 20.060152 32.3434588 30"></polygon>
+                </g>
+            </g>
+        </g>
+        <g id="Pin-Left" opacity="0.715013587" transform="translate(25.000000, 38.000000)" fill="#FFFFFF">
+            <polygon id="Back-Chevron" points="0.5 11 11 0.5 13 2.5 4.5 11 13 19.5 11 21.5"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(-1.000000, 72.000000)">
+            <g id="Cells/Table/Cell-Title" opacity="0.900000036">
+                <g id="Rectangle">
+                    <use fill-opacity="0.358469203" fill="#8EE4AF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+            <text id="Incoming-Buses" font-family="OpenSans-SemiBold, Open Sans" font-size="13" font-weight="500" letter-spacing="0.419999987" fill="#194D89">
+                <tspan x="130" y="19">Incoming Buses</tspan>
+                <tspan x="234.370234" y="19"></tspan>
+            </text>
+        </g>
+        <g id="Overrides/Cell/Detail" transform="translate(213.000000, 599.000000)" fill="#9B9B9B">
+            <path d="M11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 Z M11,21 C16.5228475,21 21,16.5228475 21,11 C21,5.4771525 16.5228475,1 11,1 C5.4771525,1 1,5.4771525 1,11 C1,16.5228475 5.4771525,21 11,21 Z M9,8.5 L12,8.5 L12,16.5 L13,16.5 L13,17 L9,17 L9,16.5 L10,16.5 L10,9 L9,9 L9,8.5 Z M10.75,7 C10.0596441,7 9.5,6.44035594 9.5,5.75 C9.5,5.05964406 10.0596441,4.5 10.75,4.5 C11.4403559,4.5 12,5.05964406 12,5.75 C12,6.44035594 11.4403559,7 10.75,7 Z" id="Detail-Disclosure"></path>
+        </g>
+        <g id="Bars/Navigation/Navigation-Bar" transform="translate(0.000000, 14.000000)">
+            <g id="Bar">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#5CDB95" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <g id="Overrides/Navigation-Bar/Center/Title" transform="translate(149.500000, 5.000000)"></g>
+            <g id="Overrides/Navigation-Bar/Left/Back-Button" opacity="0.83520154" transform="translate(17.000000, 5.000000)" fill="#FFFFFF" fill-rule="evenodd" stroke-width="1">
+                <g id="Pin-Left" transform="translate(14.000000, 11.000000)">
+                    <polygon id="Back-Chevron" points="0.5 11 11 0.5 13 2.5 4.5 11 13 19.5 11 21.5"></polygon>
+                </g>
+            </g>
+            <text id="Washington-&amp;-State" font-family="OpenSans-Bold, Open Sans" font-size="14" font-weight="bold" letter-spacing="0.460000008" fill="#FFFFFF">
+                <tspan x="104.426797" y="35.5">Washington &amp; Stat</tspan>
+                <tspan x="241.541719" y="35.5">e</tspan>
+            </text>
+        </g>
+        <g id="M-79" transform="translate(0.000000, 98.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-2-Eastbound-Copy-2" transform="translate(19.000000, 115.000000)">
+            <g id="Oval" transform="translate(232.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="60" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="7" y="20">60</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="319 10.5 320.5 9 327 15.5 320.5 22 319 20.5 324 15.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="274" y="19">20 min</tspan>
+            </text>
+            <text id="Eastbound" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="0.251959875" y="21">Eastbound</tspan>
+            </text>
+            <text id="Randolph/Harbor-Dr" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.402843744" y="42">Randolph/Harbor Dr</tspan>
+            </text>
+        </g>
+        <g id="M-79-Copy" transform="translate(0.000000, 176.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-2-Eastbound-Copy-3" transform="translate(19.000000, 193.000000)">
+            <g id="Oval" transform="translate(232.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="124" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="3" y="20">124</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="319 10.5 320.5 9 327 15.5 320.5 22 319 20.5 324 15.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="274" y="19">10 min</tspan>
+            </text>
+            <text id="Eastbound" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="0.251959875" y="21">Eastbound</tspan>
+            </text>
+            <text id="Navy-Pier" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.453863278" y="42">Navy Pier</tspan>
+            </text>
+        </g>
+        <g id="M-79-Copy-2" transform="translate(0.000000, 256.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-3-Northbound-Copy-4" transform="translate(20.000000, 275.000000)">
+            <g id="Oval" transform="translate(230.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="151" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="3" y="20">151</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="317 6.5 318.5 5 325 11.5 318.5 18 317 16.5 322 11.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="272" y="15">16 min</tspan>
+            </text>
+            <text id="Northbound" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="0.483080417" y="17">Northbound</tspan>
+            </text>
+            <text id="Devon/Clark" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.382738277" y="38">Devon/Clark</tspan>
+            </text>
+        </g>
+        <g id="M-79-Copy-3" transform="translate(0.000000, 336.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-3-Northbound-Copy-5" transform="translate(20.000000, 355.000000)">
+            <g id="Oval" transform="translate(230.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="J14" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="4" y="20">J14</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="317 6.5 318.5 5 325 11.5 318.5 18 317 16.5 322 11.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="272" y="15">15 min</tspan>
+            </text>
+            <text id="Southbound" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="0.455736667" y="17">Southbound</tspan>
+            </text>
+            <text id="103/Stony-Island" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.123871088" y="38">103/Stony Island</tspan>
+            </text>
+        </g>
+        <g id="M-79-Copy-4" transform="translate(0.000000, 415.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-3-Northbound-Copy-6" transform="translate(19.000000, 434.000000)">
+            <g id="Oval" transform="translate(231.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="124" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="4" y="20">124</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="318 6.5 319.5 5 326 11.5 319.5 18 318 16.5 323 11.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="273" y="15">10 min</tspan>
+            </text>
+            <text id="Southbound" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="1.45573667" y="17">Southbound</tspan>
+            </text>
+            <text id="Navy-Pier" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.953863278" y="38">Navy Pier</tspan>
+            </text>
+        </g>
+        <g id="M-79-Copy-5" transform="translate(0.000000, 494.000000)">
+            <g id="Cell">
+                <use fill="#EDF5E1" fill-rule="evenodd" xlink:href="#path-12"></use>
+                <rect stroke="#9B9B9B" stroke-width="1" x="-0.5" y="-0.5" width="365" height="80"></rect>
+            </g>
+        </g>
+        <g id="Cell-3-Northbound-Copy-7" transform="translate(19.000000, 513.000000)">
+            <g id="Oval" transform="translate(231.000000, 0.000000)">
+                <circle id="Oval-2" stroke="#194D89" fill-opacity="0.249999985" fill="#18EC8E" cx="15" cy="15" r="15"></circle>
+                <text id="6x" font-family="Lato-Black, Lato" font-size="12" font-weight="700" letter-spacing="0.994285583" fill="#194D89">
+                    <tspan x="7" y="20">6x</tspan>
+                </text>
+            </g>
+            <polygon id="Disclosure-Indicator-Copy" fill="#C7C7CC" points="318 6.5 319.5 5 326 11.5 319.5 18 318 16.5 323 11.5"></polygon>
+            <text id="Message" font-family="Calibri" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#9B9B9B">
+                <tspan x="273" y="15">     N/A</tspan>
+            </text>
+            <text id="Reroute" font-family="OpenSans-Bold, Open Sans" font-size="16" font-weight="bold" letter-spacing="0.420571417" fill="#4A4A4A">
+                <tspan x="0.137375042" y="17">Reroute</tspan>
+            </text>
+            <text id="Jackson-Park-Express" font-family="Calibri-Light, Calibri" font-size="14" font-weight="300" letter-spacing="0.368000001" fill="#4A4A4A">
+                <tspan x="0.320488274" y="38">Jackson Park Express</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
