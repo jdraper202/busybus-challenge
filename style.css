@@ -1,7 +1,9 @@
 *, *:before, *:after
 {
   box-sizing: border-box;
+
 }
+
 
 body {
   font-family: sans-serif;
@@ -15,14 +17,15 @@ body {
 nav {
     background-color: #5CDB95;
     margin: 0 auto;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     text-align: center;
 
   }
 
-  .white.png {
-    background-image: url(white.png);
+  .navigation-bar {
+    width: 420px;
   }
+
 
 /* font styling */
 
@@ -62,7 +65,7 @@ h3 {
 
 .content {
   float: left;
-  width: 60%;
+  width: 70%;
 }
 
 .location {
@@ -84,12 +87,19 @@ h3 {
 .busnumber {
   display: inline-block;
   border-radius: 100px;
+  border: 1px solid #194D89;;
   width: 30px;
   height:30px;
-  background-color: #18EC8E;
-  text-align: center;
+  background-color: #C9ECD7;
   padding-top: 10px;
   margin-right: 10px;
+  font-style: 'Lato';
+  font-size: 12px;
+  font-weight: bold;
+  color: #194D89;
+  text-align: center;
+
+
 }
 
 .time  {
@@ -97,21 +107,24 @@ h3 {
   text-align: right;
   padding-right: 5px;
   margin-right: 10px;
+  color: #9B9B9B;
+  font-style: 'Calibri-Light';
+  font-size: 12px;
+
 }
 
-.arrow {
+.arrow-right {
   float: right;
   margin-top: 8px;
   text-align: right;
-  width: 35%;
+  width: 25%;
   position: relative;
   font-size: 10px;
-  font-weight: lighter;
 }
 
 
 .fa-chevron-right {
-  position: absolute;
+  position: arrow-right;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -125,14 +138,22 @@ h3 {
   font-weight: 900;
 }
 
+
 .location h3 {
   font-size: 1.3em;
   margin-top: 5px;
+  color: #9B9B9B;
 }
 
-.arrow-left {
+.left_arrow {
   float: left;
+
   margin-top: -30.5px;
+  margin-left: 15px;
   text-align: left;
-  font-style: Calibri-Light
+  font-style: 'Calibri-Light';
+  }
+
+  .status {
+    width: 420px;
   }
